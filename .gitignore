@@ -35,3 +35,13 @@ ENV/
 .vscode/
 *.swp
 *.swo
+
+# Archivos de configuración con credenciales
+woocommerce_config.yaml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
